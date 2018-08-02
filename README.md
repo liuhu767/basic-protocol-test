@@ -15,3 +15,7 @@ https://dueros.baidu.com/didp/doc/dueros-conversational-service/device-interface
 
 第四步：执行测试命令 nosetests -s -v TestDcsCase.py
 
+提供的功能如下：
+1.事件、状态、指令中各个字段的检验
+2.事件和指令的一一对应性校验
+3.将不在开发平台里的事件和指令输出到文件中
